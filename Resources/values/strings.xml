@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextViewHtmlTest</string>
+    <string name="action_settings">Settings</string>
+	<string
+      name="messageWithLink">
+		<a href="https://www.google.com/">Tap here to open Link</a>
+	</string>
+</resources>

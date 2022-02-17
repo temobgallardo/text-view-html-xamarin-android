@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextViewHtmlTest", "TextViewHtmlTest.csproj", "{30B771F9-722D-4962-9C02-024D5A875442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B771F9-722D-4962-9C02-024D5A875442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B771F9-722D-4962-9C02-024D5A875442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B771F9-722D-4962-9C02-024D5A875442}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{30B771F9-722D-4962-9C02-024D5A875442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B771F9-722D-4962-9C02-024D5A875442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B771F9-722D-4962-9C02-024D5A875442}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F354B93E-1C61-4E91-B16C-BE33C731BD84}
+	EndGlobalSection
+EndGlobal
